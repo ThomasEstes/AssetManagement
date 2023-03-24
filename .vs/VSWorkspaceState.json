@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AssetsManagement",
+    "\\AssetsManagement\\Controllers",
+    "\\AssetsManagement\\Data",
+    "\\AssetsManagement\\Models"
   ],
+  "SelectedNode": "\\AssetsManagement\\Controllers\\DevicesController.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RB6IaMbXTKrQUQckvb9yl+R3nJ9uHg3L7fkt9XErIcBwxqIos8J5SydvjbUrjm9rMSKVGnnjsG/HuF99fyBNOQ==",
+  "dgSpecHash": "vnrAGnE0gcZt0KAKVhzU/k1mRdIifYoqgy6P3FZgUOXTWqMsC9qKBfpLMknF3PW5Dw2Pz7jFwkB2PL+AzjWygg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tom.estes\\OneDrive - Quality Supply Chain Co-op, Inc\\Documents\\Repository\\AssetsManagement\\AssetsManagement\\AssetsManagement.csproj",
+  "projectFilePath": "C:\\Users\\tom.estes\\source\\repos\\ThomasEstes\\AssetManagement\\AssetsManagement\\AssetsManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tom.estes\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\tom.estes\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

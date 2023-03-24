@@ -10649,11 +10649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tom.estes\\OneDrive - Quality Supply Chain Co-op, Inc\\Documents\\Repository\\AssetsManagement\\AssetsManagement\\AssetsManagement.csproj",
+      "projectUniqueName": "C:\\Users\\tom.estes\\source\\repos\\ThomasEstes\\AssetManagement\\AssetsManagement\\AssetsManagement.csproj",
       "projectName": "AssetsManagement",
-      "projectPath": "C:\\Users\\tom.estes\\OneDrive - Quality Supply Chain Co-op, Inc\\Documents\\Repository\\AssetsManagement\\AssetsManagement\\AssetsManagement.csproj",
+      "projectPath": "C:\\Users\\tom.estes\\source\\repos\\ThomasEstes\\AssetManagement\\AssetsManagement\\AssetsManagement.csproj",
       "packagesPath": "C:\\Users\\tom.estes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tom.estes\\OneDrive - Quality Supply Chain Co-op, Inc\\Documents\\Repository\\AssetsManagement\\AssetsManagement\\obj\\",
+      "outputPath": "C:\\Users\\tom.estes\\source\\repos\\ThomasEstes\\AssetManagement\\AssetsManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tom.estes\\AppData\\Roaming\\NuGet\\NuGet.Config",
