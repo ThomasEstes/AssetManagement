@@ -80,7 +80,10 @@ namespace AssetsManagement.Controllers
                 return NotFound();
             }
 
-            var devices = await _context.Devices.FindAsync(id);
+            var devices = await _context.Devices.Include(c => c.Contacts).FirstOrDefaultAsync(d => d.DeviceId == id);
+            ViewData["ContactsOptions"] = new SelectList(devices.Contacts, "ContactId", "FullName");
+
+            //var devices = await _context.Devices.FindAsync(id);
             if (devices == null)
             {
                 return NotFound();
